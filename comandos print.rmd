@@ -1,0 +1,13 @@
+
+
+Acción	                Emoji			Ejemplo de uso
+Éxito	                ✅	    		print("\U00002705 Proceso OK")
+Error	                ❌	    		print("\U0000274C Error en OCR")
+Alerta	                ⚠️	    		print("\U000026A0 Red inestable")
+Carga	                ⏳	    		print("\U000023F3 Esperando...")
+Cohete	                🚀	    		print("\U0001F680 Iniciando loop")
+Lupa	                🔍	    		print("\U0001F50D Buscando guía")
+Carpeta	                📂	    		print("\U0001F4C2 Accediendo a red")
+Base de Datos	        🗄️	    		print("\U0001F5C4 Guardando en SSIS")
+
+
