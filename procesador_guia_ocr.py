@@ -44,7 +44,7 @@ class ProcesadorGuiaOCR:
         if not texto:
             return False
         texto = texto.lower()
-        palabras = ["devoluciones", "devolucion", "devoluci", "devoluc", "DEVOL","DEVOLUCIONES", "DEVOLU", "DEVOLUCION"]
+        palabras = ["devoluciones", "devolucion", "devoluci", "devoluc", "DEVOL","DEVOLUCIONES", "DEVOLU", "DEVOLUCION","Devoluciones","DEVOLUCIÓN"]
         return any(p in texto for p in palabras)
 
     # -------------------------------------------------
